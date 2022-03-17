@@ -1,0 +1,49 @@
+{
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "gitlens.defaultDateFormat": "dddd d/mm/YYYY - hh:mm a",
+    "gitlens.defaultDateShortFormat": "d/mm/YY - hh:mm",
+    "gitlens.defaultTimeFormat": "hh:mm a",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.activityBar.visible": true,
+    "editor.renderControlCharacters": false,
+    "html.hover.references": false,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.fontFamily": "Cascadia Code",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "tabnine.experimentalAutoImports": true,
+    "editor.formatOnSave": true,
+    "php.executablePath": "",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.fontWeight": null,
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "[json]": {
+    
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "json.schemas": [
+    
+    ]
+}
